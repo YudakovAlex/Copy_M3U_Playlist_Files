@@ -1,2 +1,6 @@
 # m3u_files_extractor
-Copy all songs from playlist into the folder. Parameter - name of m3u file.
+This is comand line application, works on Linux and Windows, haven't tested on Mac.
+Copies all songs from playlist into the folder with the name of playlist. 
+
+Single parameter - path to the m3u file.
+
